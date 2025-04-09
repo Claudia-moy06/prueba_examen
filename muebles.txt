@@ -2,3 +2,4 @@ Sillas
 mesas
 armario
 cama
+sofas

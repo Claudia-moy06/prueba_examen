@@ -1,3 +1,4 @@
 Sillas
 mesas
 armario
+cama
